@@ -1,0 +1,16 @@
+node_modules
+dist
+.DS_Store
+*.local
+.env
+.env.*
+!.env.example
+vite.config.ts.timestamp-*
+vite.config.ts.*.ts
+*.log
+*图标*
+*.ico
+!write-icon.ico
+!markdown-icon.ico
+!editor-icon.ico
+!editor-icon2.ico
